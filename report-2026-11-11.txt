@@ -1,0 +1,14 @@
+===== Health Check =====
+Дата:       Wed Nov 11 21:47:57 EET 2026
+Користувач: marichkakulyk
+Комп'ютер:  Marichkas-MacBook-Air.local
+
+--- Час роботи і навантаження ---
+21:47  up 7 days, 22:13, 4 users, load averages: 2.82 4.23 4.63
+
+--- Місце на диску ---
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    13Gi    18Gi    41%    484k  194M    0%   /
+
+--- Пам'ять ---
+(команда free є тільки в Linux)
